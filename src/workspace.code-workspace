@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\javascript-essence-tutorial"
+		},
+		{
+			"path": "..\\..\\front-dev-tutorial"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "front-dev-tutorial"
+	}
+}
